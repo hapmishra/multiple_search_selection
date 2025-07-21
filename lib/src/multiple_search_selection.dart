@@ -844,7 +844,6 @@ class _MultipleSearchSelectionState<T>
       onTap: widget.searchField.onTap,
       onTapOutside: widget.searchField.onTapOutside,
       restorationId: widget.searchField.restorationId,
-      stylusHandwritingEnabled: widget.searchField.stylusHandwritingEnabled,
       scrollController: widget.searchField.scrollController,
       scrollPadding: widget.searchField.scrollPadding,
       scrollPhysics: widget.searchField.scrollPhysics,
